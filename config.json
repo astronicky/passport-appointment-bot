@@ -1,0 +1,12 @@
+{
+  "region": "Blekinge",
+  "locations": ["Karlskrona", "Karlshamn"],
+  "max_date": "2022-08-01",
+  "email": "example@mail.com",
+  "phone": "0701234567",
+  "passport": true,
+  "id": false,
+  "confirmation": ["email", "sms"],
+  "sessions": 1,
+  "throttle": 0
+}
